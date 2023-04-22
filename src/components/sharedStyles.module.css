@@ -3,7 +3,7 @@
 }
 
 .title {
-  font-size: 32px;
+  font-size: 36px;
   margin-bottom: 10px;
 }
 
@@ -35,4 +35,3 @@
 .input:focus {
   border-color: blue;
 }
-
